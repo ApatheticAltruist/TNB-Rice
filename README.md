@@ -20,7 +20,6 @@ Theme: Dark Red (attached)
 
 ChangeMenuBarColor, does what you'd expect.
 https://github.com/igorkulman/ChangeMenuBarColor
-(requires XCode Tools from App Store, free) 
 Used "#243339" to make a solid color menu bar
 
 Bartender 4 (Beta), free until release +15 days. Hides excessive menu bar status items. 
