@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#818282FF",
+        "font" : "Avenir",
+        "color" : "#FFFFFF7F"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Avenir",
+        "color" : "#FFFFFF59"
+      },
+      "backgroundSelected" : "#972F215A",
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#636363FF",
+        "font" : "Avenir",
+        "color" : "#818282FF"
+      },
+      "iconPaddingHorizontal" : 11,
+      "roundness" : 0,
+      "paddingVertical" : 7,
+      "iconSize" : 47
+    },
+    "search" : {
+      "backgroundSelected" : "#144863FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 46,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Avenir",
+        "color" : "#AF4448FF"
+      },
+      "background" : "#17242BE3",
+      "roundness" : 0,
+      "paddingVertical" : 3
+    },
+    "window" : {
+      "color" : "#272727F1",
+      "paddingHorizontal" : 0,
+      "width" : 683,
+      "borderPadding" : 0,
+      "borderColor" : "#0000003F",
+      "blur" : 40,
+      "roundness" : -64,
+      "paddingVertical" : 0
+    },
+    "credit" : "MS",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#1D6488FF",
+      "thickness" : 2
+    },
+    "name" : "Dark Red"
+  }
+}
