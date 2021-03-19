@@ -9,7 +9,7 @@ export ZSH="/Users/ms/.config/.oh-my-zsh"
 ZSH_THEME="mh"
 ENABLE_CORRECTION="true"
 
-# Optional additional custom folder than $ZSH/custom?
+# Optional additional custom folder (other than $ZSH/custom)
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 # Which plugins would you like to load?
