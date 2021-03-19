@@ -16,7 +16,7 @@ Launcher: Alfred launcher, with custom theme
 https://www.alfredapp.com
 Theme: Dark Red (attached, requires paid version of alfred)
 
-Additional items: 
+= Additional items =
 
 ChangeMenuBarColor, does what you'd expect.
 https://github.com/igorkulman/ChangeMenuBarColor
@@ -25,11 +25,6 @@ Used "#243339" to make a solid color menu bar
 
 Bartender 4 (Beta), free until release +15 days. Hides excessive menu bar status items. 
 https://www.macbartender.com
-
-
-Neovim (with extension manager "Plugged")
-
-=Here are some smaller tweaks perhaps worth mentioning=
 
 Faster Dock unhide and movement speed
 >defaults write com.apple.dock autohide-delay -float 0
