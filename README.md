@@ -14,7 +14,7 @@ https://github.com/gokcehan/lf
 
 Launcher: Alfred launcher, with custom theme
 https://www.alfredapp.com
-Theme: Dark Red (attached, requires paid version of alfred)
+Theme: Dark Red (attached)
 
 = Additional items =
 
