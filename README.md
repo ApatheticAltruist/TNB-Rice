@@ -32,11 +32,11 @@ Neovim (with extension manager "Plugged")
 =Here are some smaller tweaks perhaps worth mentioning=
 
 Faster Dock unhide and movement speed
-defaults write com.apple.dock autohide-delay -float 0
-defaults write com.apple.dock autohide-time-modifier -float 0.5
+>defaults write com.apple.dock autohide-delay -float 0
+>defaults write com.apple.dock autohide-time-modifier -float 0.5
 
 Hide Desktop Items
-com.apple.finder CreateDesktop -bool false
+>com.apple.finder CreateDesktop -bool false
 
 Displaperture rounds corners of the screen, matching Big Sur (objectively yucky) window corners.
 https://manytricks.com/displaperture/
