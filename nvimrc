@@ -17,6 +17,7 @@ set incsearch
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
+" Using Plugged to pull plugins into nvim. Update path here.
 call plug#begin('~/.config/nvim/plugged')
 
 " Function
