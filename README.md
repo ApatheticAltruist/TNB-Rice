@@ -7,7 +7,7 @@ https://github.com/koekeishiya/yabai
 Terminal: Alacritty
 https://github.com/alacritty/alacritty
 
-Shell: ZSH (via oh-my-zsh)
+Shell: ZSH (via oh-my-zsh) https://github.com/ohmyzsh
 
 Terminal File Browser: LF
 https://github.com/gokcehan/lf
